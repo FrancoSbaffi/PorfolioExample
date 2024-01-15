@@ -22,14 +22,6 @@
   
 </div>
 
-## Stack
-
-- **HTML** - Standard markup language for documents designed to be displayed in a web browser.
-- **CSS** - Style language used to describe the presentation of a document written in HTML.
-- **JavaScript** - High-level, interpreted programming language.
-- **Fonts** - I use various fonts in my projects, including:
-  - [**Plus Jakarta Sans**](https://fonts.google.com/specimen/Plus+Jakarta+Sans)
-
 ##  License
 
 [MIT](#) - Created by [**Franco Sbaffi**](https://www.linkedin.com/in/franco-sbaffi/).
